@@ -1,0 +1,6 @@
+Flask
+Flask-Bcrypt
+cryptography
+python-dotenv
+google-genai
+gunicorn
